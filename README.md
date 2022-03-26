@@ -4,7 +4,6 @@
   <a href="https://github.com/mmuriloj">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mmuriloj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuriloj&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://badge42.vercel.app/api/v2/stats/cl180xod0011109l65xnzbfxf?cursusId=60"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
