@@ -1,10 +1,8 @@
 ## Hello, World. I'm Murilo, a self taught Data Scientist and Cadet at 42 São Paulo.
 <br>
-<div align="center">
-  <a href="https://github.com/mmuriloj">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuriloj&layout=compact&langs_count=7&theme=dracula"/>   
-    
- [![mumontei's 42 stats](https://badge42.vercel.app/api/v2/cl180xod0011109l65xnzbfxf/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+<div align="left"> 
+ 
+  [![mumontei's 42 stats](https://badge42.vercel.app/api/v2/cl180xod0011109l65xnzbfxf/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
     </div>
   
   
