@@ -2,7 +2,7 @@
 <br>
 <div align="left"> 
  
-  [![mumontei's 42 stats](https://badge42.vercel.app/api/v2/cl180xod0011109l65xnzbfxf/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+  [![mumontei's 42 stats](https://badge42.vercel.app/api/v2/cl180xod0011109l65xnzbfxf/stats?cursusId=21&coalitionId=piscine)](https://42.fr/en/homepage/)
     </div>
   
   
