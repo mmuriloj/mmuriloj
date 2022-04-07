@@ -1,4 +1,4 @@
-## Hello, World. I'm Murilo, a self taught Data Scientist and Cadet at 42 São Paulo.
+## Hello, World. I'm a Cadet at 42 São Paulo.
 <br>
 <div align="left"> 
  
