@@ -17,7 +17,6 @@
 </div>
 <br>  
 <div> 
-  <a href = "mailto:eng.muriloj@yahoo.com"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilomonteiroj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
