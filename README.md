@@ -3,7 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/mmuriloj">
+  <!--
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=mmuriloj&background=282a36&dates=9F8883&sideNums=DDDDDD&sideLabels=DDD8C4"/>
+  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuriloj&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
 </div>
